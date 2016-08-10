@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+int c,a,b;
+printf("Enter the numbers : ");
+scanf("%d",&a);
+scanf("%d",&b);
+c=a+b;
+
+printf("The number is : %d \n",c);
+
+
+}
